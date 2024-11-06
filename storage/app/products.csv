@@ -1,0 +1,8 @@
+id,name,sku,price,currency,variations,quantity,status
+203,code 209,,65,SAR,"[{""name"":""نوع الجهاز "",""value"":""Iphone 6, iphone 6s, iphone 6 plus, iphone 6s plus, iphone 5, iphone 5s, ipad mini, Galaxy S4, Galaxy S5, Galaxy S6, Galaxy S6 EDGE, Note 3, Note 4, Note 5""}]",5,sale
+319,9,,199,SAR,,1,deleted
+320,13,,175,SAR,,1,deleted
+321,2,,139,SAR,,1,deleted
+462,بهارات,,50,SAR,,NULL,hidden
+7420,تغليف ساعه ,,400,SAR,,0,out
+7424,جزمة ساندريلا,,480,SAR,,NULL,sale
